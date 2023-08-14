@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Economics Ph.D. Student
+role: Economics PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -27,8 +27,8 @@ bio: My research interests include Health Economics, ... and ....
 # Interests to show in About widget
 interests:
   - Health Economics
-  - ...
-  - ...
+  - Applied Microeconomics
+  - Environmental Economics
 
 # Education to show in About widget
 education:
@@ -75,5 +75,5 @@ email: ''
 highlight_name: true
 ---
 
-Emerson Hamer is a second year Ph.D. student in Economics at Emory University. ...
+Emerson Hamer is a second year Ph.D. student in Economics at Emory University. She earned her B.A. in Economics from Eckerd College.
 {style="text-align: justify;"}
