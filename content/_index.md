@@ -27,6 +27,7 @@ sections:
           description: 10%
           icon: camera-retro
           icon_pack: fas
+  \\\
   - block: experience
     content:
       title: Experience
@@ -203,6 +204,8 @@ sections:
       title: Popular Topics
     design:
       columns: '2'
+    \\\
+    
   - block: contact
     id: contact
     content:
