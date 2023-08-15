@@ -21,8 +21,8 @@ sections:
    #       icon_pack: fab
         - name: Cloud Computing
    #       description: 100%
-          icon: chart-line
-          icon_pack: cloud
+          icon: cloud
+          icon_pack: fas
         - name: Python
    #       description: 10%
           icon: python
