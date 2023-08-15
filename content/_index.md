@@ -19,7 +19,7 @@ sections:
    #       description: 90%
    #       icon: r-project
    #       icon_pack: fab
-        - name: Cloud Computing
+        - name: Cloud Computing 
    #       description: 100%
           icon: cloud
           icon_pack: fas
