@@ -1,5 +1,5 @@
 ---
-  # Leave the homepage title empty to use the site title 
+# Leave the homepage title empty to use the site title 
 title: Emerson Hamer
 date: 2022-10-24 
 type: landing
@@ -63,7 +63,7 @@ sections:
   #        description: Taught electronic engineering and researched semiconductor physics.
   #  design:
   #    columns: '2'
- - block: accomplishments
+   - block: accomplishments
     id: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
