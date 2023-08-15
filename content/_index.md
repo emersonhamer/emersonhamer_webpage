@@ -33,8 +33,8 @@ sections:
           icon_pack: fas
        - name: Github
    #       description: 10%
-          icon: git
-          icon_pack: fas
+         icon: git
+         icon_pack: fas
  #- block: experience
   # content:
   #    title: Experience
