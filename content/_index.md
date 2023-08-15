@@ -1,7 +1,7 @@
 ---
-# Leave the homepage title empty to use the site title 
+# Leave the homepage title empty to use the site title
 title: Emerson Hamer
-date: 2022-10-24 
+date: 2022-10-24
 type: landing
 
 sections:
