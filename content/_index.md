@@ -100,6 +100,14 @@ sections:
           organization_url: https://www.datacamp.com
           title: Intermediate Regression with statsmodels in Python
           url: ''
+        - certificate_url: https://www.datacamp.com/statement-of-accomplishment/course/a1df7236fc1e484d7a6ea113581163a3432440bc
+          date_end: ''
+          date_start: '2023-01-13'
+          description: ''
+          organization: DataCamp
+          organization_url: https://www.datacamp.com
+          title: Understanding Cloud Computing
+          url: ''    
  #        - certificate_url: https://www.datacamp.com/statement-of-#accomplishment/course/7d95bf029b987da486a46f29965d2a4ee5378ee0
  #         date_end: ''
   #        date_start: '2023-01-10'
