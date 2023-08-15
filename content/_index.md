@@ -35,6 +35,10 @@ sections:
    #       description: 10%
           icon: github
           icon_pack: fab
+        - name: ArcGIS
+   #       description: 10%
+          icon: globe
+          icon_pack: fab
  #- block: experience
   # content:
   #    title: Experience
