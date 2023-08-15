@@ -38,7 +38,7 @@ sections:
         - name: ArcGIS
    #       description: 10%
           icon: globe
-          icon_pack: fab
+          icon_pack: fas
  #- block: experience
   # content:
   #    title: Experience
