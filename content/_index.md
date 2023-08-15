@@ -11,8 +11,8 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
- - block: features
-   content:
+  - block: features
+    content:
       title: Skills
       items:
    #     - name: R
