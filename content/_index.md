@@ -11,23 +11,30 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
- #- block: features
-  #content:
-   #   title: Skills
-   #   items:
+ - block: features
+   content:
+      title: Skills
+      items:
    #     - name: R
    #       description: 90%
    #       icon: r-project
    #       icon_pack: fab
-   #     - name: Statistics
+        - name: Cloud Computing
    #       description: 100%
-   #       icon: chart-line
-   #       icon_pack: fas
-   #     - name: Photography
+          icon: chart-line
+          icon_pack: cloud
+        - name: Python
    #       description: 10%
-   #       icon: camera-retro
-   #       icon_pack: fas
-
+          icon: python
+          icon_pack: fas
+       - name: Overleaf
+   #       description: 10%
+          icon: overleaf
+          icon_pack: fas
+       - name: Github
+   #       description: 10%
+          icon: git
+          icon_pack: fas
  #- block: experience
   # content:
   #    title: Experience
