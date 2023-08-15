@@ -27,14 +27,14 @@ sections:
    #       description: 10%
           icon: python
           icon_pack: fas
-       - name: Overleaf
+        - name: Overleaf
    #       description: 10%
           icon: overleaf
           icon_pack: fas
-       - name: Github
+        - name: Github
    #       description: 10%
-         icon: git
-         icon_pack: fas
+          icon: git
+          icon_pack: fas
  #- block: experience
   # content:
   #    title: Experience
