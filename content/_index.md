@@ -10,7 +10,7 @@ sections:
    content:
      title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
+     username: admin
  #- block: features
   #content:
    #   title: Skills
@@ -63,7 +63,7 @@ sections:
   #        description: Taught electronic engineering and researched semiconductor physics.
   #  design:
   #    columns: '2'
-   - block: accomplishments
+ -block: accomplishments
     id: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
