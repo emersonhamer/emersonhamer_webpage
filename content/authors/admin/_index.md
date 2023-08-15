@@ -75,5 +75,5 @@ email: ''
 highlight_name: true
 ---
 
-Emerson Hamer is a second year Ph.D. student in Economics at Emory University. She earned her B.A. in Economics from Eckerd College.
+Emerson Hamer is a second-year PhD student in Economics at Emory University. She earned her B.A. in Economics from Eckerd College.  Her research interests are in health and environmental economics.
 {style="text-align: justify;"}
