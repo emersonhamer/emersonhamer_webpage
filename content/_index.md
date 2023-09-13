@@ -126,7 +126,7 @@ sections:
           description: ''
           organization: DataCamp
           organization_url: https://www.datacamp.com
-          title:Introduction to Tableau
+          title: Introduction to Tableau
           url: '' 
  #        - certificate_url: https://www.datacamp.com/statement-of-#accomplishment/course/7d95bf029b987da486a46f29965d2a4ee5378ee0
  #         date_end: ''
