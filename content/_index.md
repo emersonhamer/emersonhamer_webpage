@@ -15,10 +15,10 @@ sections:
     content:
       title: Skills
       items:
-   #     - name: R
-   #        description: 90%
-   #       icon: r-project
-   #       icon_pack: fab
+        - name: Tableu
+     #      description: 90%
+          icon: salesforce
+          icon_pack: fab
         - name: Cloud Computing 
    #       description: 100%
           icon: cloud
@@ -38,6 +38,10 @@ sections:
         - name: ArcGIS
    #       description: 10%
           icon: globe
+          icon_pack: fas
+        - name: SQL 
+   #       description: 100%
+          icon: database
           icon_pack: fas
  #- block: experience
   # content:
