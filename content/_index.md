@@ -111,14 +111,30 @@ sections:
           organization: DataCamp
           organization_url: https://www.datacamp.com
           title: Understanding Cloud Computing
-          url: ''    
+          url: ''
+        - certificate_url: https://www.datacamp.com/statement-of-accomplishment/course/7d95bf029b987da486a46f29965d2a4ee5378ee0
+          date_end: ''
+          date_start: '2023-08-21'
+          description: ''
+          organization: DataCamp
+          organization_url: https://www.datacamp.com
+          title: Introduction to SQL
+          url: ''
+        - certificate_url: https://www.datacamp.com/statement-of-accomplishment/course/2937e4ed2941ad5e68a138525b22fe141a5f7471
+          date_end: ''
+          date_start: '2023-09-08'
+          description: ''
+          organization: DataCamp
+          organization_url: https://www.datacamp.com
+          title:Introduction to Tableau
+          url: '' 
  #        - certificate_url: https://www.datacamp.com/statement-of-#accomplishment/course/7d95bf029b987da486a46f29965d2a4ee5378ee0
  #         date_end: ''
-  #        date_start: '2023-01-10'
+  #        date_start: '2023-09-08'
   #        description: ''
    #       organization: DataCamp
   #        organization_url: https://www.datacamp.com
-   #       title: Introduction to Version Control with Git
+   #       title: Introduction to Tableau
   #        url: ''
   #  design:
   #    columns: '2'
