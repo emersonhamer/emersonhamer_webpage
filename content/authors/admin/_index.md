@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Economics PhD Student
+role: Economics PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
