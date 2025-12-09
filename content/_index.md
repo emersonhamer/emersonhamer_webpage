@@ -15,7 +15,7 @@ sections:
     content:
       title: Skills
       items:
-        - name: Tableu
+        - name: Tableau
      #      description: 90%
           icon: salesforce
           icon_pack: fab
